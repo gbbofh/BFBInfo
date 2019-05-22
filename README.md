@@ -21,6 +21,11 @@ Right now, this application is confirmed to only run on Linux systems -- however
 it should in theory run on most POSIX compliant operating systems. It also will
 run on Windows 10, via the Windows Subsystem for Linux.
 
+In order to avoid any issues with copyright, no files have been provided with
+which to test this utility -- if you have a copy of the game, you can test it
+with any of the files that it ships with. Or you can make your own and export
+them via the existing Blender extension.
+
 ## Example
 
 ```bash
