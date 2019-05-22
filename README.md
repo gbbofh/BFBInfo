@@ -15,6 +15,11 @@ developing this application in future endeavours.
 
 I used to love this game. That's pretty much the only reason.
 
+## Known Issues
+
+No known issues at the moment -- valgrind shows no memory leaks, and no read/write
+errors are reported.
+
 ## Usage
 
 Right now, this application is confirmed to only run on Linux systems -- however
